@@ -1,0 +1,38 @@
+#RevPage {
+  background-image: url(https://i.pinimg.com/736x/c1/1d/19/c11d191e853fcc8348277885bb390df7.jpg);
+  text-align: center;
+}
+
+/*-------------------------BODY-------------------------------*/
+#RevPage ul {
+  list-style-type: none;
+  font-weight: bold;
+}
+
+#RevPage li {
+  font-weight: 400;
+}
+
+#reviews {
+  padding: 30px;
+}
+#RevPage table {
+  color: white;
+  width: 100%;
+  table-layout: fixed;
+  align-content: center;
+  text-align: center;
+}
+
+.RoomName {
+  font-weight: bold;
+}
+
+#RevPage img {
+  width: 250px;
+  height: 250px;
+}
+
+/* .form-container {
+  background: none;
+} */

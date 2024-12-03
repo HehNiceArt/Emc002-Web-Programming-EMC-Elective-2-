@@ -1,0 +1,130 @@
+body {
+  margin: 0;
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
+    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
+    sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  overflow: hidden;
+  position: relative;
+}
+
+.shape {
+  position: absolute;
+  opacity: 0.7;
+}
+
+.shape-container {
+  overflow: hidden;
+}
+
+.shape.circle {
+  width: 50px;
+  height: 50px;
+  background-color: #ff6b6b;
+  border-radius: 50%;
+  animation: float1 10s infinite;
+}
+
+.shape.square {
+  width: 50px;
+  height: 50px;
+  background-color: #4ecdc4;
+  animation: float2 12s infinite;
+}
+
+.shape.triangle {
+  width: 0;
+  height: 0;
+  border-left: 25px solid transparent;
+  border-right: 25px solid transparent;
+  border-bottom: 50px solid #1a535c;
+  animation: float3 14s infinite;
+}
+
+@keyframes float1 {
+  0% {
+    transform: translate(0, 0) rotate(0deg) scale(1);
+  }
+
+  25% {
+    transform: translate(100px, -50px) rotate(45deg) scale(2);
+  }
+
+  50% {
+    transform: translate(-100px, 100px) rotate(90deg) scale(1.8);
+  }
+
+  75% {
+    transform: translate(50px, -100px) rotate(135deg) scale(2.6);
+  }
+
+  100% {
+    transform: translate(0, 0) rotate(180deg) scale(1);
+  }
+}
+
+@keyframes float2 {
+  0% {
+    transform: translate(0, 0) rotate(0deg) scale(1);
+  }
+
+  20% {
+    transform: translate(80px, -40px) rotate(60deg) scale(1.9);
+  }
+
+  40% {
+    transform: translate(-80px, 80px) rotate(120deg) scale(2.7);
+  }
+
+  60% {
+    transform: translate(40px, -80px) rotate(180deg) scale(1.2);
+  }
+
+  80% {
+    transform: translate(-40px, 40px) rotate(240deg) scale(0.9);
+  }
+
+  100% {
+    transform: translate(0, 0) rotate(300deg) scale(0.3);
+  }
+}
+
+@keyframes float3 {
+  0% {
+    transform: translate(0, 0) rotate(0deg) scale(1);
+  }
+
+  15% {
+    transform: translate(60px, -30px) rotate(30deg) scale(1.9);
+  }
+
+  30% {
+    transform: translate(-60px, 60px) rotate(90deg) scale(0.9);
+  }
+
+  45% {
+    transform: translate(30px, -60px) rotate(150deg) scale(2.3);
+  }
+
+  60% {
+    transform: translate(-30px, 30px) rotate(210deg) scale(0.8);
+  }
+
+  75% {
+    transform: translate(60px, -60px) rotate(270deg) scale(3.2);
+  }
+
+  90% {
+    transform: translate(-60px, 60px) rotate(330deg) scale(0.7);
+  }
+
+  100% {
+    transform: translate(0, 0) rotate(360deg) scale(1);
+  }
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+    monospace;
+}

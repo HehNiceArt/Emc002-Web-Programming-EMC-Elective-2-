@@ -1,0 +1,21 @@
+/* Global styles that affect Bootstrap components */
+body {
+    background-color: #f8f9fa;
+    /* Light background for the entire app */
+}
+
+.btn {
+    background-color: #007bff !important;
+    /* Override Bootstrap button color */
+    color: white !important;
+    /* Ensure text is white */
+}
+
+h1,
+h2,
+h3 {
+    color: #ffffff;
+    /* Change heading colors */
+}
+
+/* More global styles as needed */

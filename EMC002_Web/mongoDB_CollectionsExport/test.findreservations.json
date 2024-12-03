@@ -1,0 +1,360 @@
+[{
+  "_id": {
+    "$oid": "674734ddd4909497262af5d2"
+  },
+  "branchLocation": "tite location",
+  "lengthOfStay": -7,
+  "checkInDate": {
+    "$date": "2024-11-27T00:00:00.000Z"
+  },
+  "roomType": "suite",
+  "checkOutDate": {
+    "$date": "2024-11-29T00:00:00.000Z"
+  },
+  "notes": "tite location",
+  "fullName": "tite",
+  "contactNumber": 915,
+  "email": "betlog@gmail.com",
+  "agreeTerms": true,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67473e6b45f556048aada400"
+  },
+  "branchLocation": "QC",
+  "lengthOfStay": 12,
+  "checkInDate": {
+    "$date": "2025-12-12T00:00:00.000Z"
+  },
+  "roomType": "suite",
+  "checkOutDate": {
+    "$date": "2025-12-15T00:00:00.000Z"
+  },
+  "notes": "",
+  "fullName": "dsa",
+  "contactNumber": 917833987,
+  "email": "dasdsa@gmail.com",
+  "agreeTerms": true,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6747434026e9efee8b0bc68f"
+  },
+  "branchLocation": "asdf",
+  "lengthOfStay": 2,
+  "checkInDate": {
+    "$date": "2024-11-29T00:00:00.000Z"
+  },
+  "roomType": "single",
+  "checkOutDate": {
+    "$date": "2024-11-29T00:00:00.000Z"
+  },
+  "notes": "asdf",
+  "fullName": "asdf",
+  "contactNumber": 123,
+  "email": "asdf@a.v",
+  "agreeTerms": true,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6747434f26e9efee8b0bc691"
+  },
+  "branchLocation": "asdf",
+  "lengthOfStay": 2,
+  "checkInDate": {
+    "$date": "2024-11-29T00:00:00.000Z"
+  },
+  "roomType": "single",
+  "checkOutDate": {
+    "$date": "2024-11-29T00:00:00.000Z"
+  },
+  "notes": "asdf",
+  "fullName": "asdf",
+  "contactNumber": 123,
+  "email": "asdf@a.v",
+  "agreeTerms": true,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "674747f778cc827345002750"
+  },
+  "branchLocation": "asdf",
+  "lengthOfStay": 2,
+  "checkInDate": {
+    "$date": "2024-11-29T00:00:00.000Z"
+  },
+  "roomType": "single",
+  "checkOutDate": {
+    "$date": "2024-11-30T00:00:00.000Z"
+  },
+  "notes": "asdfas",
+  "fullName": "adsf",
+  "contactNumber": 123,
+  "email": "asdf@gmail.com",
+  "agreeTerms": true,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "674755478b05fddf202faa70"
+  },
+  "branchLocation": "asdf",
+  "lengthOfStay": 2,
+  "checkInDate": {
+    "$date": "2024-11-29T00:00:00.000Z"
+  },
+  "roomType": "single",
+  "checkOutDate": {
+    "$date": "2024-11-30T00:00:00.000Z"
+  },
+  "notes": "asdf",
+  "fullName": "asdf",
+  "contactNumber": 123,
+  "email": "asdf@gmail.com",
+  "agreeTerms": true,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6747578c8b05fddf202faa7b"
+  },
+  "branchLocation": "qwer",
+  "lengthOfStay": 2,
+  "checkInDate": {
+    "$date": "2024-11-29T00:00:00.000Z"
+  },
+  "roomType": "single",
+  "checkOutDate": {
+    "$date": "2024-11-30T00:00:00.000Z"
+  },
+  "notes": "qwer",
+  "fullName": "qwe",
+  "contactNumber": 123,
+  "email": "asdf@gmail.com",
+  "agreeTerms": true,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6747588d8b05fddf202faa7d"
+  },
+  "branchLocation": "qwer",
+  "lengthOfStay": 2,
+  "checkInDate": {
+    "$date": "2024-11-29T00:00:00.000Z"
+  },
+  "roomType": "single",
+  "checkOutDate": {
+    "$date": "2024-11-30T00:00:00.000Z"
+  },
+  "notes": "qwer",
+  "fullName": "qwe",
+  "contactNumber": 123,
+  "email": "asdf@gmail.com",
+  "agreeTerms": true,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "674758eb8b05fddf202faa7f"
+  },
+  "branchLocation": "qwer",
+  "lengthOfStay": 2,
+  "checkInDate": {
+    "$date": "2024-11-29T00:00:00.000Z"
+  },
+  "roomType": "single",
+  "checkOutDate": {
+    "$date": "2024-11-30T00:00:00.000Z"
+  },
+  "notes": "qwer",
+  "fullName": "qwe",
+  "contactNumber": 123,
+  "email": "asdf@gmail.com",
+  "agreeTerms": true,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "674759028b05fddf202faa81"
+  },
+  "branchLocation": "asdf",
+  "lengthOfStay": 0,
+  "checkInDate": {
+    "$date": "2024-11-29T00:00:00.000Z"
+  },
+  "roomType": "single",
+  "checkOutDate": {
+    "$date": "2024-11-30T00:00:00.000Z"
+  },
+  "notes": "asdf",
+  "fullName": "asdf",
+  "contactNumber": 2134,
+  "email": "asdf@gmail.com",
+  "agreeTerms": true,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "674759da8b05fddf202faa83"
+  },
+  "branchLocation": "asdf",
+  "lengthOfStay": 2,
+  "checkInDate": {
+    "$date": "2024-11-30T00:00:00.000Z"
+  },
+  "roomType": "double",
+  "checkOutDate": {
+    "$date": "2024-12-01T00:00:00.000Z"
+  },
+  "notes": "asdf",
+  "fullName": "asdf",
+  "contactNumber": 2134,
+  "email": "asdf@gmail.com",
+  "agreeTerms": true,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67475c2f63a97a088e6964ac"
+  },
+  "branchLocation": "asdf",
+  "lengthOfStay": 2,
+  "checkInDate": {
+    "$date": "2024-11-29T00:00:00.000Z"
+  },
+  "roomType": "single",
+  "checkOutDate": {
+    "$date": "2024-11-30T00:00:00.000Z"
+  },
+  "notes": "asdf",
+  "fullName": "sadf",
+  "contactNumber": 123,
+  "email": "asdf@gmail.com",
+  "agreeTerms": true,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "674777b4733b1f3379d656ab"
+  },
+  "branchLocation": "Edsa, Guadalupe",
+  "lengthOfStay": 4,
+  "checkInDate": {
+    "$date": "2024-11-28T00:00:00.000Z"
+  },
+  "roomType": "suite",
+  "checkOutDate": {
+    "$date": "2024-11-29T00:00:00.000Z"
+  },
+  "notes": "none",
+  "fullName": "Cicero Barasi",
+  "contactNumber": 9154318575,
+  "email": "cicerobarasi@gmail.com",
+  "agreeTerms": true,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67477c16733b1f3379d656f2"
+  },
+  "branchLocation": "Edsa, Cubao",
+  "lengthOfStay": 5,
+  "checkInDate": {
+    "$date": "2024-11-28T00:00:00.000Z"
+  },
+  "roomType": "double",
+  "checkOutDate": {
+    "$date": "2024-11-29T00:00:00.000Z"
+  },
+  "notes": "",
+  "fullName": "Cicero Barasi",
+  "contactNumber": 9154318575,
+  "email": "cicero.barasi@ciit.edu.ph",
+  "agreeTerms": true,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67477d93733b1f3379d65722"
+  },
+  "branchLocation": "Edsa, Guadalupe",
+  "lengthOfStay": 5,
+  "checkInDate": {
+    "$date": "2024-11-28T00:00:00.000Z"
+  },
+  "roomType": "single",
+  "checkOutDate": {
+    "$date": "2024-11-29T00:00:00.000Z"
+  },
+  "notes": "",
+  "fullName": "Cicero Barasi",
+  "contactNumber": 9154318575,
+  "email": "cicerobarasi@gmail.com",
+  "agreeTerms": true,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67477fc4a12fc5d5db333140"
+  },
+  "branchLocation": "Edsa, Cubao",
+  "lengthOfStay": 4,
+  "checkInDate": {
+    "$date": "2024-11-28T00:00:00.000Z"
+  },
+  "roomType": "single",
+  "checkOutDate": {
+    "$date": "2024-11-29T00:00:00.000Z"
+  },
+  "notes": "",
+  "fullName": "Cicero Barasi",
+  "contactNumber": 9154318575,
+  "email": "cicero.barasi@ciit.edu.ph",
+  "agreeTerms": true,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "674780b7a12fc5d5db333172"
+  },
+  "branchLocation": "North Edsa",
+  "lengthOfStay": 3,
+  "checkInDate": {
+    "$date": "2024-11-29T00:00:00.000Z"
+  },
+  "roomType": "single",
+  "checkOutDate": {
+    "$date": "2024-11-30T00:00:00.000Z"
+  },
+  "notes": "hi",
+  "fullName": "Cicero Barasi",
+  "contactNumber": 9154318575,
+  "email": "cicero.barasi@ciit.edu.ph",
+  "agreeTerms": true,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6747b911f8c58f6de985176b"
+  },
+  "branchLocation": "North Edsa",
+  "lengthOfStay": 2,
+  "checkInDate": {
+    "$date": "2024-11-28T00:00:00.000Z"
+  },
+  "roomType": "single",
+  "checkOutDate": {
+    "$date": "2024-11-28T00:00:00.000Z"
+  },
+  "notes": "aw",
+  "fullName": "awdasd",
+  "contactNumber": 12345,
+  "email": "adw@gmail.com",
+  "agreeTerms": true,
+  "__v": 0
+}]

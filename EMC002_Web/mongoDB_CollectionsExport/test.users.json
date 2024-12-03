@@ -1,0 +1,80 @@
+[{
+  "_id": {
+    "$oid": "67473085374c70079fd1de0f"
+  },
+  "email": "qwe",
+  "password": "qwe",
+  "firstName": "qwe",
+  "lastName": "qwe",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67473c5d45f556048aada3fd"
+  },
+  "email": "mg@gmail.com",
+  "password": "mg",
+  "firstName": "mg",
+  "lastName": "mg",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67473f5f45f556048aada403"
+  },
+  "email": "dsa",
+  "password": "dsa",
+  "firstName": "dsa",
+  "lastName": "dsa",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6747403c45f556048aada406"
+  },
+  "email": "dsa@gmail.com",
+  "password": "dsa",
+  "firstName": "dsa",
+  "lastName": "dsaa",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6747433c45f556048aada417"
+  },
+  "email": "mglc@gmail.com",
+  "password": "123",
+  "firstName": "ky",
+  "lastName": "ky",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67475c8263a97a088e6964b2"
+  },
+  "email": "asdasd",
+  "password": "asdasd",
+  "firstName": "asdasd",
+  "lastName": "asdasd",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67477677733b1f3379d656a5"
+  },
+  "email": "cicerobarasi@gmail.com",
+  "password": "password",
+  "firstName": "Cicero",
+  "lastName": "Barasi",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6747809aa12fc5d5db333170"
+  },
+  "email": "cicero.barasi@ciit.edu.ph",
+  "password": "qwe",
+  "firstName": "Cicero",
+  "lastName": "Barasi",
+  "__v": 0
+}]

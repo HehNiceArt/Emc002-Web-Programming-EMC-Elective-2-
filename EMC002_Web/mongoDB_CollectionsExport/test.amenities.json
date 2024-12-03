@@ -1,0 +1,14 @@
+[{
+  "_id": {
+    "$oid": "670a85a0521380ffd981cd68"
+  },
+  "name": "Free WiFi",
+  "description": "High-speed internet access",
+  "count": 100,
+  "roomService": 2,
+  "internetAccess": 5,
+  "createdAt": {
+    "$date": "2024-10-12T14:20:16.504Z"
+  },
+  "__v": 0
+}]

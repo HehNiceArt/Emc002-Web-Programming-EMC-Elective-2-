@@ -1,0 +1,135 @@
+[{
+  "_id": {
+    "$oid": "67474d0cbe7776e8da810039"
+  },
+  "comment": "So scary, made me feel so anxious.",
+  "room": 1,
+  "roomName": "Backroom",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67474d27be7776e8da81003b"
+  },
+  "comment": "Reminds me a lot of my bedroom, now I'm traumatized.",
+  "room": 2,
+  "roomName": "Bedroom",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67474d45be7776e8da81003d"
+  },
+  "comment": "The place is surprisingly chill.",
+  "room": 3,
+  "roomName": "Symposium",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67474d6bbe7776e8da81003f"
+  },
+  "comment": "My favorite placeeee. I was able to use the projector to watch my favorite horror movies.",
+  "room": 4,
+  "roomName": "Cinema",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67474d96be7776e8da810041"
+  },
+  "comment": "I love it!",
+  "room": 5,
+  "roomName": "Subway",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67474da4be7776e8da810043"
+  },
+  "comment": "So liminal, I love it!",
+  "room": 6,
+  "roomName": "Mall",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67474df0be7776e8da810045"
+  },
+  "comment": "I like it, so scary!",
+  "room": 7,
+  "roomName": "Hallway",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67474e07be7776e8da810047"
+  },
+  "comment": "My two favorite places in one! I love this room.",
+  "room": 8,
+  "roomName": "Gym",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67474e10be7776e8da810049"
+  },
+  "comment": "I love this room!",
+  "room": 9,
+  "roomName": "Cafe",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67477c40733b1f3379d65718"
+  },
+  "comment": "I love this place",
+  "room": 9,
+  "roomName": "Cafe",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67477c42733b1f3379d6571a"
+  },
+  "comment": "I love this place",
+  "room": 9,
+  "roomName": "Cafe",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67477db8733b1f3379d65748"
+  },
+  "comment": "This place is so scary!",
+  "room": 9,
+  "roomName": "Cafe",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67477feda12fc5d5db333166"
+  },
+  "comment": "I love this place, it's so scary!",
+  "room": 9,
+  "roomName": "Cafe",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "674780d7a12fc5d5db333198"
+  },
+  "comment": "This place smells like coffee, i like it.",
+  "room": 9,
+  "roomName": "Cafe",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6747b8e7f8c58f6de9851769"
+  },
+  "comment": "awd",
+  "room": 1,
+  "roomName": "Backroom",
+  "__v": 0
+}]

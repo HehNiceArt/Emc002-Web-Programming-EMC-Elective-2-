@@ -1,0 +1,70 @@
+/*Author: Andrei Dominic B. Quirante*/
+.UP-Container {
+    display: flex;
+    flex-direction: column;
+    background: rgba(70, 71, 74, 0.5);
+    backdrop-filter: blur(1.5px);
+    border: 3px solid white;
+    border-radius: 10px;
+    width: auto;
+    align-items: center;
+    justify-content: center;
+    position: relative;
+    z-index: 100;
+}
+
+.UP-Content {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    width: 250px;
+    align-items: center;
+    padding: 10px;
+}
+
+.UP-Container:hover {
+    background: rgba(154, 163, 182, 0.5);
+    box-shadow: 0 8px 32px 0 rgba(31, 38, 135, 0.37);
+    backdrop-filter: blur(3.5px);
+    -webkit-backdrop-filter: blur(3.5px);
+    border-radius: 10px;
+    border: 3px solid rgba(255, 255, 255, 0.452);
+}
+
+p {
+    margin: 0;
+    padding: 10px 0 10px 0;
+    color: white
+}
+
+.UP-Name {
+    font-size: 24px;
+    font-weight: bold;
+}
+
+.UP-Age {
+    font-size: 20px;
+}
+
+.UP-Location {
+    font-size: 20px;
+    margin: 0;
+}
+
+.UP-Illust {
+    display: flex;
+    height: 120px;
+    width: 120px;
+    justify-content: center;
+    margin: 10px;
+}
+
+.UP-Illust>img {
+    border-radius: 50%;
+    background-color: rgba(60, 69, 77, 0.8);
+    border: 5px solid white;
+    -moz-border-radius: 50%;
+    -webkit-border-radius: 50%;
+    object-fit: cover;
+    overflow: hidden;
+}

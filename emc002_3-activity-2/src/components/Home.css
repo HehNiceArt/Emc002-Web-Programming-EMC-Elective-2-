@@ -1,0 +1,78 @@
+.Home-Container {
+    display: flex;
+    height: 100vh;
+    flex-direction: column;
+}
+
+.Home-Hero {
+    display: flex;
+    width: 100%;
+    height: 100vh;
+    background-color: rgba(210, 146, 146, 0.3);
+    position: relative;
+    z-index: 600;
+    backdrop-filter: blur(3.5px);
+}
+
+.Home-Content {
+    display: flex;
+    width: 100%;
+    height: auto;
+    justify-content: center;
+    align-items: center;
+}
+
+.Home-Details {
+    display: flex;
+    height: 100vh;
+    flex-direction: row;
+    padding: 50px;
+    z-index: 500;
+}
+
+.Home-Summary {
+    display: flex;
+    width: 50%;
+    margin-bottom: auto;
+    border-radius: 10px;
+}
+.Home-Summary:hover{
+    background: rgba( 255, 255, 255, 0.25 );
+    box-shadow: 0 8px 32px 0 rgba( 31, 38, 135, 0.37 );
+    backdrop-filter: blur( 4px );
+    -webkit-backdrop-filter: blur( 4px );
+    border-radius: 10px;
+    border: 1px solid rgba( 255, 255, 255, 0.18 );
+}
+.Home-Summary>img{
+    display: flex;
+    height: auto;
+    border-radius: 10px;
+    width: 100%;
+    overflow: hidden;
+    object-fit: contain;
+}
+
+.Home-Text {
+    display: flex;
+    flex-direction: column;
+    margin-right: auto;
+    margin-left: 10%;
+    min-width: 600px;
+    min-height: 350px;
+    background-color: #b5555585;
+    border-radius: 10px;
+    padding: 20px;
+    margin-bottom: auto;
+    z-index: 600;
+}
+
+.Home-Text:hover{
+    display: flex;
+    background: rgba( 255, 255, 255, 0.25 );
+    box-shadow: 0 8px 32px 0 rgba( 31, 38, 135, 0.37 );
+    backdrop-filter: blur( 4px );
+    -webkit-backdrop-filter: blur( 4px );
+    border-radius: 10px;
+    border: 1px solid rgba( 255, 255, 255, 0.18 );
+}

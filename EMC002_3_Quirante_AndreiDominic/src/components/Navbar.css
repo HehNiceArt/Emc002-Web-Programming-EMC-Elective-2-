@@ -1,0 +1,28 @@
+.Navbar-Container {
+    display: flex;
+    background-color: rgba(74, 74, 74, 0.57);
+    box-shadow: 0 4px 32px 0 rgba(93, 31, 31, 0.37);
+    height: 60px;
+    width: 100%;
+    z-index: 1000;
+    backdrop-filter: blur(3.5px);
+    position: sticky;
+    top: 0;
+}
+
+.Nav-li {
+    display: flex;
+    flex-direction: row;
+    font-size: 16px;
+    margin-right: 25px;
+    margin-top: auto;
+    margin-bottom: auto;
+    white-space: nowrap;
+}
+
+.Nav-li>a {
+    list-style: none;
+    text-decoration: none;
+    font-weight: bold;
+    color: white;
+}

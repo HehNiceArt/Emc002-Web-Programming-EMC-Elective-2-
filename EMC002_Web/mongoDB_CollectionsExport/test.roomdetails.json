@@ -1,0 +1,90 @@
+[{
+  "_id": {
+    "$oid": "6730a6165f46af37e156c00a"
+  },
+  "image": "https://i.pinimg.com/564x/ca/89/1c/ca891c020ab2de8e1cef204583e00bde.jpg",
+  "name": "Backroom",
+  "description": "A surreal, maze-like space of dim yellow walls and soft, flickering lights, capturing the eerie allure of forgotten corridors. Faded wallpaper and vintage furnishings evoke an unsettling charm, as if time stands still here. It’s a room shrouded in quiet mystery, perfect for guests seeking both rest and a touch of the unknown.",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6730c865521903bfe917fe21"
+  },
+  "name": "Backroom",
+  "image": "https://i.pinimg.com/564x/ca/89/1c/ca891c020ab2de8e1cef204583e00bde.jpg",
+  "description": "A surreal, maze-like space of dim yellow walls and soft, flickering lights, capturing the eerie allure of forgotten corridors. Faded wallpaper and vintage furnishings evoke an unsettling charm, as if time stands still here. It’s a room shrouded in quiet mystery, perfect for guests seeking both rest and a touch of the unknown.",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6730c8ce521903bfe917fe23"
+  },
+  "name": "Bedroom",
+  "image": "https://i.pinimg.com/564x/0d/85/51/0d8551b6acf18b5d889416c227665df8.jpg",
+  "description": "The \"Bedroom\" offers a serene escape with its calming tones and cozy, modern furnishings. Soft, warm lighting fills the space, creating a peaceful atmosphere perfect for unwinding. With a plush bed, minimalist decor, and an inviting ambiance, it’s the ideal retreat for a restful night’s sleep, where comfort and tranquility meet.",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6730c95e521903bfe917fe25"
+  },
+  "name": "Symposium",
+  "image": "https://i.pinimg.com/564x/2e/83/cd/2e83cd30d0fc588fca06d2ab907def86.jpg",
+  "description": "The Symposium room combines elegance with a hint of mystery, offering an intimate space for reflection and conversation. Rich, dark wood accents and sophisticated lighting create a warm, immersive ambiance, perfect for gatherings or quiet contemplation. Subtle, vintage decor gives the room a timeless feel, inviting guests to unwind, discuss, and connect in a setting that’s both stylish and thought-provoking.",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6730c9ad521903bfe917fe27"
+  },
+  "name": "Cinema",
+  "image": "https://i.pinimg.com/736x/df/9d/e4/df9de4a240708ba572c60b42c1effbf2.jpg",
+  "description": "The Cinema room is a captivating space designed for an immersive, private theater experience. Deep, plush seating faces a large screen, surrounded by rich, dark walls that enhance focus and ambiance. Soft, adjustable lighting and acoustic design create an authentic cinema feel, ideal for cozy movie nights or binge-watching sessions. This room offers a perfect escape for film lovers, where comfort meets the magic of the big screen.",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6730c9e3521903bfe917fe29"
+  },
+  "name": "Subway",
+  "image": "https://i.pinimg.com/564x/81/b6/8d/81b68dad0e5fdfcec266a51fc06325de.jpg",
+  "description": "Step into an eerie, abandoned underground station. Flickering lights, cracked tiles, and rail accents set the mood. Relax in a cozy bed or unwind in a clawfoot tub. The subtle sound of distant trains completes the haunting yet comfortable experience.",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6730ca19521903bfe917fe2b"
+  },
+  "name": "Mall",
+  "image": "https://i.pinimg.com/564x/e0/21/f3/e021f3b2abb63c8229ff10ee008cccc4.jpg",
+  "description": "The Mall room captures the lively charm of a classic shopping arcade. Styled with sleek, modern decor and touches of vintage retail elements, this spacious room evokes the energy of bustling storefronts and promenades. Ambient lighting reflects off polished surfaces, and cozy seating areas invite guests to relax as if they’re taking a break from a day of exploring shops. It’s a vibrant, social space where style and comfort converge, offering a unique blend of nostalgia and modernity.",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6730ca42521903bfe917fe2d"
+  },
+  "name": "Hallway",
+  "image": "https://i.pinimg.com/564x/b0/3b/2d/b03b2dd43bf560dedd73aebb5caa59a2.jpg",
+  "description": "The Hallway room immerses guests in an enigmatic, maze-like space with long corridors, dim lighting, and echoes that seem to drift from nowhere. The muted tones and minimalist design create a sense of both calm and curiosity, as if each corner holds a new secret. Simple decor and gentle lighting guide you through the space, making it feel like an endless passage—a perfect setting for those drawn to quiet exploration and a touch of mystery.",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6746e4ad053568c2ead48f2c"
+  },
+  "name": "Gym",
+  "image": "https://i.pinimg.com/564x/bb/94/50/bb94501fceaacff9078ad785f02d2d2f.jpg",
+  "description": "The Gym room combines an industrial aesthetic with modern fitness essentials. Exposed brick, steel accents, and large mirrors create an open, energetic vibe, perfect for an invigorating workout or a moment of reflection. Equipped with versatile, compact fitness gear and a spacious layout, this room caters to both active routines and mindful stretching. It’s a space designed for physical focus and mental clarity, offering the perfect balance of strength and style.",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6746e9936326aba25fb1efa1"
+  },
+  "name": "Cafe",
+  "image": "https://i.pinimg.com/564x/75/e2/79/75e279cad00ac2871d863bfafa491857.jpg",
+  "description": "The Cafe room is a cozy, welcoming space inspired by the warmth of a classic coffeehouse. Soft lighting, rustic wooden accents, and vintage decor create a relaxed ambiance, ideal for unwinding or casual conversation. Comfortable seating and the aroma of rich coffee set the scene for a peaceful retreat, where guests can enjoy quiet moments, a good book, or simply a comforting break from the day. It’s a charming hideaway that captures the essence of a favorite neighborhood cafe.",
+  "__v": 0
+}]

@@ -1,0 +1,110 @@
+.Admin-Container {
+    display: flex;
+    flex-direction: row;
+    width: 100vw;
+    height: 100vh;
+}
+
+.AN-Container {
+    width: auto;
+    height: 100vh;
+    background-color: #602121;
+    text-align: center;
+    min-width: 300px;
+}
+
+.Admin-Content {
+    display: flex;
+    height: auto;
+    width: auto;
+    flex-direction: column;
+}
+
+.AN-Container>h1 {
+    padding: 50px 20px 50px 20px;
+}
+
+.AN-Container>li {
+    padding: 20px;
+    font-size: 24px;
+}
+
+.AN-Container>li>a {
+    color: white;
+}
+
+.Room-List {
+    height: calc(100vh/3);
+    padding: 50px;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+}
+
+.Room-Bookings {
+    margin: 0 50px;
+    justify-content: center;
+    text-align: center;
+    display: flex;
+    flex-direction: column;
+    width: 200px;
+    min-height: 100px;
+    background-color: #602121;
+    border-radius: 20px;
+}
+
+.Room-Tally {
+    font-size: 42px;
+}
+
+.Room-Bookings,
+.Room-CheckIn,
+.Room-CheckOut>p {
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+
+.Room-CheckIn {
+    margin: 0 50px;
+    text-align: center;
+    justify-content: center;
+    display: flex;
+    width: 200px;
+    min-height: 100px;
+    background-color: #602121;
+    border-radius: 20px;
+    flex-direction: column;
+}
+
+.Room-CheckOut {
+    margin: 0 50px;
+    text-align: center;
+    justify-content: center;
+    min-height: 100px;
+    width: 200px;
+    display: flex;
+    flex-direction: column;
+    background-color: #602121;
+    border-radius: 20px;
+}
+
+.grid-line {
+    border: 1px solid rgb(247, 247, 247);
+}
+
+.grid-line>.col {
+    padding: 10px;
+}
+
+.grid-line>h5 {
+    color: white;
+}
+
+.grid-container {
+    padding: 0 100px;
+    background-color: #ffffff00 !important;
+}
+
+.row {
+    text-align: center;
+}

@@ -1,0 +1,168 @@
+[{
+  "_id": {
+    "$oid": "6747489478cc827345002757"
+  },
+  "roomId": "2",
+  "location": "Edsa, Cubao",
+  "checkInDate": {
+    "$date": "2024-11-29T00:00:00.000Z"
+  },
+  "checkOutDate": {
+    "$date": "2024-11-30T00:00:00.000Z"
+  },
+  "numRooms": 1,
+  "numAdults": 1,
+  "numChildren": 0,
+  "promoCode": "WELCOMETOLIMINAL",
+  "createdAt": {
+    "$date": "2024-11-27T16:28:04.662Z"
+  },
+  "updatedAt": {
+    "$date": "2024-11-27T16:28:04.662Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6747552d8b05fddf202faa6e"
+  },
+  "roomId": "2",
+  "location": "Edsa, Guadalupe",
+  "checkInDate": {
+    "$date": "2024-11-29T00:00:00.000Z"
+  },
+  "checkOutDate": {
+    "$date": "2024-11-30T00:00:00.000Z"
+  },
+  "numRooms": 1,
+  "numAdults": 1,
+  "numChildren": 0,
+  "promoCode": "",
+  "createdAt": {
+    "$date": "2024-11-27T17:21:49.507Z"
+  },
+  "updatedAt": {
+    "$date": "2024-11-27T17:21:49.507Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67477c57733b1f3379d6571c"
+  },
+  "roomId": "9",
+  "location": "Edsa, Guadalupe",
+  "checkInDate": {
+    "$date": "2024-11-29T00:00:00.000Z"
+  },
+  "checkOutDate": {
+    "$date": "2024-11-30T00:00:00.000Z"
+  },
+  "numRooms": 1,
+  "numAdults": 2,
+  "numChildren": 1,
+  "promoCode": "",
+  "createdAt": {
+    "$date": "2024-11-27T20:08:55.107Z"
+  },
+  "updatedAt": {
+    "$date": "2024-11-27T20:08:55.107Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67477dd1733b1f3379d6574e"
+  },
+  "roomId": "9",
+  "location": "Edsa, Guadalupe",
+  "checkInDate": {
+    "$date": "2024-11-29T00:00:00.000Z"
+  },
+  "checkOutDate": {
+    "$date": "2024-11-30T00:00:00.000Z"
+  },
+  "numRooms": 1,
+  "numAdults": 2,
+  "numChildren": 1,
+  "promoCode": "",
+  "createdAt": {
+    "$date": "2024-11-27T20:15:13.169Z"
+  },
+  "updatedAt": {
+    "$date": "2024-11-27T20:15:13.169Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67477dfd733b1f3379d65750"
+  },
+  "roomId": "9",
+  "location": "Edsa, Guadalupe",
+  "checkInDate": {
+    "$date": "2024-11-29T00:00:00.000Z"
+  },
+  "checkOutDate": {
+    "$date": "2024-11-30T00:00:00.000Z"
+  },
+  "numRooms": 1,
+  "numAdults": 2,
+  "numChildren": 1,
+  "promoCode": "",
+  "createdAt": {
+    "$date": "2024-11-27T20:15:57.263Z"
+  },
+  "updatedAt": {
+    "$date": "2024-11-27T20:15:57.263Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67478003a12fc5d5db33316c"
+  },
+  "roomId": "9",
+  "location": "Edsa, Guadalupe",
+  "checkInDate": {
+    "$date": "2024-11-29T00:00:00.000Z"
+  },
+  "checkOutDate": {
+    "$date": "2024-11-30T00:00:00.000Z"
+  },
+  "numRooms": 1,
+  "numAdults": 2,
+  "numChildren": 1,
+  "promoCode": "",
+  "createdAt": {
+    "$date": "2024-11-27T20:24:35.926Z"
+  },
+  "updatedAt": {
+    "$date": "2024-11-27T20:24:35.926Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "674780eda12fc5d5db33319e"
+  },
+  "roomId": "9",
+  "location": "North Edsa",
+  "checkInDate": {
+    "$date": "2024-11-29T00:00:00.000Z"
+  },
+  "checkOutDate": {
+    "$date": "2024-11-30T00:00:00.000Z"
+  },
+  "numRooms": 1,
+  "numAdults": 2,
+  "numChildren": 1,
+  "promoCode": "",
+  "createdAt": {
+    "$date": "2024-11-27T20:28:29.342Z"
+  },
+  "updatedAt": {
+    "$date": "2024-11-27T20:28:29.342Z"
+  },
+  "__v": 0
+}]

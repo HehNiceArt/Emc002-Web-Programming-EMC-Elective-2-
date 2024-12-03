@@ -1,0 +1,17 @@
+[{
+  "_id": {
+    "$oid": "670a73839f50a2f03679bcfa"
+  },
+  "name": "Annual Conference",
+  "date": {
+    "$date": "2023-12-01T10:00:00.000Z"
+  },
+  "location": "Convention Center",
+  "description": "A conference for industry professionals.",
+  "createdAt": {
+    "$date": "2024-10-12T13:02:59.248Z"
+  },
+  "__v": 0,
+  "registered": 8,
+  "cost": 5000
+}]

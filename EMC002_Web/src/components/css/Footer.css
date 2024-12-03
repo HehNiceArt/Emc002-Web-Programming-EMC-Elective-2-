@@ -1,0 +1,44 @@
+.Footer-Container {
+    width: 100%;
+    background-color: rgba(96, 33, 33, 1);
+    height: auto;
+    padding: 20px 50px 20px 50px;
+}
+
+.Footer-Contents {
+    display: flex;
+    flex-direction: row;
+    gap: 100px;
+    width: auto;
+}
+
+.Links {
+    text-decoration: none;
+    list-style: none;
+    padding: 10px 0 10px 0;
+}
+
+.Links>a {
+    text-decoration: none;
+    cursor: pointer;
+    color: white;
+}
+
+h1 {
+    color: white;
+}
+
+p {
+    color: white;
+    font-size: 16px;
+}
+
+.Footer-Trademark {
+    padding: 50px 50px 0 50px;
+    text-align: center;
+}
+
+.Watermark {
+    text-decoration: none;
+    color: white;
+}
